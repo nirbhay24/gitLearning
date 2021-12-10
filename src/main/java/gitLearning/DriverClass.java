@@ -8,6 +8,7 @@ public class DriverClass {
 
 		Calculator cal = new Calculator();
 		System.out.println(cal.addition(4, 7));
+		System.out.println("India is great");
 		
 	}
 
